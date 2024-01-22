@@ -1,6 +1,6 @@
 
 import streamlit
-pip install snowflake-connector-python
+python -m pip install snowflake-connector-python
 
 streamlit.title('My parents new healthy dinner')
 streamlit.header('🍕Breakfast Menu')
